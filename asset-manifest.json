@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/40splendidiautunni/static/css/main.9a7b91a6.css",
-    "main.js": "/40splendidiautunni/static/js/main.81e9f867.js",
+    "main.css": "/40splendidiautunni/static/css/main.45f195d8.css",
+    "main.js": "/40splendidiautunni/static/js/main.ebc4d5a2.js",
     "static/media/foliage.jpeg": "/40splendidiautunni/static/media/foliage.e36798085b7ea0d4c8e0.jpeg",
     "index.html": "/40splendidiautunni/index.html",
-    "main.9a7b91a6.css.map": "/40splendidiautunni/static/css/main.9a7b91a6.css.map",
-    "main.81e9f867.js.map": "/40splendidiautunni/static/js/main.81e9f867.js.map"
+    "main.45f195d8.css.map": "/40splendidiautunni/static/css/main.45f195d8.css.map",
+    "main.ebc4d5a2.js.map": "/40splendidiautunni/static/js/main.ebc4d5a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a7b91a6.css",
-    "static/js/main.81e9f867.js"
+    "static/css/main.45f195d8.css",
+    "static/js/main.ebc4d5a2.js"
   ]
 }
