@@ -37,8 +37,13 @@ div{
 }
 a{
     text-decoration: none;
-    color: #b7712f;
+    color: #d71411;
     display: contents;
+}
+b,i{
+    display: contents;
+    color: #964800;
+
 }
 .testo_info{
     margin-top: 1rem;
